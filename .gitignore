@@ -1,0 +1,4 @@
+/svelte-bookshop/node_modules/
+/svelte-bookshop/public/build/
+
+.DS_Store
